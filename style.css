@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.negrito{
+    font-weight: bold;
+}
+
+#tamanhoFoto{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+#folha{
+    border: 2px solid black;
+    padding: 100px;
+    margin: 100px 100px 100px 100px;
+    background-color: white;
+}
+
+div{
+    margin-top: 45px;
+}
+
+#maior{
+    margin-top: 60px;
+}
+
+body{
+    background-image: url(mesa.jpg);
+    background-size: cover;
+    font-family: 'Roboto Slab', serif;
+}
